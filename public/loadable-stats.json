@@ -1,0 +1,1638 @@
+{
+  "hash": "5169700183d50ae944b1",
+  "version": "5.24.2",
+  "publicPath": "/",
+  "outputPath": "/Users/obie/Downloads/winkel-ssr/public",
+  "assetsByChunkName": {
+    "main": [
+      "styles/main.css",
+      "scripts/main.js"
+    ],
+    "home": [
+      "scripts/home.js"
+    ],
+    "contacts": [
+      "scripts/contacts.js"
+    ],
+    "companies": [
+      "scripts/companies.js"
+    ],
+    "offers": [
+      "scripts/offers.js"
+    ],
+    "settings": [
+      "scripts/settings.js"
+    ],
+    "test": [
+      "scripts/test.js"
+    ],
+    "noMatch": [
+      "styles/noMatch.css",
+      "scripts/noMatch.js"
+    ],
+    "vendor": [
+      "scripts/vendor.js"
+    ]
+  },
+  "assets": [
+    {
+      "type": "asset",
+      "name": "scripts/vendor.js",
+      "size": 802060,
+      "emitted": false,
+      "comparedForEmit": false,
+      "cached": true,
+      "info": {
+        "javascriptModule": false,
+        "minimized": true
+      },
+      "chunkNames": [
+        "vendor"
+      ],
+      "chunkIdHints": [
+        "vendor"
+      ],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "related": {},
+      "chunks": [
+        736
+      ],
+      "auxiliaryChunks": [],
+      "isOverSizeLimit": false
+    },
+    {
+      "type": "asset",
+      "name": "styles/main.css",
+      "size": 63649,
+      "emitted": false,
+      "comparedForEmit": false,
+      "cached": true,
+      "info": {},
+      "chunkNames": [
+        "main"
+      ],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "related": {},
+      "chunks": [
+        179
+      ],
+      "auxiliaryChunks": [],
+      "isOverSizeLimit": false
+    },
+    {
+      "type": "asset",
+      "name": "scripts/main.js",
+      "size": 40537,
+      "emitted": false,
+      "comparedForEmit": false,
+      "cached": true,
+      "info": {
+        "javascriptModule": false,
+        "minimized": true
+      },
+      "chunkNames": [
+        "main"
+      ],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "related": {},
+      "chunks": [
+        179
+      ],
+      "auxiliaryChunks": [],
+      "isOverSizeLimit": false
+    },
+    {
+      "type": "asset",
+      "name": "scripts/home.js",
+      "size": 26152,
+      "emitted": false,
+      "comparedForEmit": false,
+      "cached": true,
+      "info": {
+        "javascriptModule": false,
+        "minimized": true
+      },
+      "chunkNames": [
+        "home"
+      ],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "related": {},
+      "chunks": [
+        177
+      ],
+      "auxiliaryChunks": [],
+      "isOverSizeLimit": false
+    },
+    {
+      "type": "asset",
+      "name": "scripts/contacts.js",
+      "size": 21488,
+      "emitted": false,
+      "comparedForEmit": false,
+      "cached": true,
+      "info": {
+        "javascriptModule": false,
+        "minimized": true
+      },
+      "chunkNames": [
+        "contacts"
+      ],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "related": {},
+      "chunks": [
+        421
+      ],
+      "auxiliaryChunks": [],
+      "isOverSizeLimit": false
+    },
+    {
+      "type": "asset",
+      "name": "scripts/companies.js",
+      "size": 16409,
+      "emitted": false,
+      "comparedForEmit": false,
+      "cached": true,
+      "info": {
+        "javascriptModule": false,
+        "minimized": true
+      },
+      "chunkNames": [
+        "companies"
+      ],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "related": {},
+      "chunks": [
+        230
+      ],
+      "auxiliaryChunks": [],
+      "isOverSizeLimit": false
+    },
+    {
+      "type": "asset",
+      "name": "scripts/offers.js",
+      "size": 11174,
+      "emitted": false,
+      "comparedForEmit": false,
+      "cached": true,
+      "info": {
+        "javascriptModule": false,
+        "minimized": true
+      },
+      "chunkNames": [
+        "offers"
+      ],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "related": {},
+      "chunks": [
+        54
+      ],
+      "auxiliaryChunks": [],
+      "isOverSizeLimit": false
+    },
+    {
+      "type": "asset",
+      "name": "scripts/settings.js",
+      "size": 4474,
+      "emitted": false,
+      "comparedForEmit": false,
+      "cached": true,
+      "info": {
+        "javascriptModule": false,
+        "minimized": true
+      },
+      "chunkNames": [
+        "settings"
+      ],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "related": {},
+      "chunks": [
+        571
+      ],
+      "auxiliaryChunks": [],
+      "isOverSizeLimit": false
+    },
+    {
+      "type": "asset",
+      "name": "styles/noMatch.css",
+      "size": 1961,
+      "emitted": false,
+      "comparedForEmit": false,
+      "cached": true,
+      "info": {},
+      "chunkNames": [
+        "noMatch"
+      ],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "related": {},
+      "chunks": [
+        864
+      ],
+      "auxiliaryChunks": [],
+      "isOverSizeLimit": false
+    },
+    {
+      "type": "asset",
+      "name": "scripts/noMatch.js",
+      "size": 1018,
+      "emitted": false,
+      "comparedForEmit": false,
+      "cached": true,
+      "info": {
+        "javascriptModule": false,
+        "minimized": true
+      },
+      "chunkNames": [
+        "noMatch"
+      ],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "related": {},
+      "chunks": [
+        864
+      ],
+      "auxiliaryChunks": [],
+      "isOverSizeLimit": false
+    },
+    {
+      "type": "asset",
+      "name": "scripts/test.js",
+      "size": 675,
+      "emitted": false,
+      "comparedForEmit": false,
+      "cached": true,
+      "info": {
+        "javascriptModule": false,
+        "minimized": true
+      },
+      "chunkNames": [
+        "test"
+      ],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "related": {},
+      "chunks": [
+        43
+      ],
+      "auxiliaryChunks": [],
+      "isOverSizeLimit": false
+    }
+  ],
+  "chunks": [
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 1673,
+      "sizes": {
+        "javascript": 1673
+      },
+      "names": [
+        "test"
+      ],
+      "idHints": [],
+      "runtime": [
+        "main"
+      ],
+      "files": [
+        "scripts/test.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "9edb4d03cee0da07fe49",
+      "childrenByOrder": {},
+      "id": 43,
+      "siblings": [],
+      "parents": [
+        179,
+        736
+      ],
+      "children": [],
+      "modules": [],
+      "origins": []
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 22827,
+      "sizes": {
+        "javascript": 22827
+      },
+      "names": [
+        "offers"
+      ],
+      "idHints": [],
+      "runtime": [
+        "main"
+      ],
+      "files": [
+        "scripts/offers.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "c569e338fcb982bb67b9",
+      "childrenByOrder": {},
+      "id": 54,
+      "siblings": [
+        736
+      ],
+      "parents": [
+        179,
+        736
+      ],
+      "children": [],
+      "modules": [],
+      "origins": []
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 48891,
+      "sizes": {
+        "javascript": 48891
+      },
+      "names": [
+        "home"
+      ],
+      "idHints": [],
+      "runtime": [
+        "main"
+      ],
+      "files": [
+        "scripts/home.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "d84c50a19404f6c4f041",
+      "childrenByOrder": {},
+      "id": 177,
+      "siblings": [
+        736
+      ],
+      "parents": [
+        179,
+        736
+      ],
+      "children": [],
+      "modules": [],
+      "origins": []
+    },
+    {
+      "rendered": true,
+      "initial": true,
+      "entry": true,
+      "recorded": false,
+      "size": 153357,
+      "sizes": {
+        "javascript": 73363,
+        "css/mini-extract": 69858,
+        "runtime": 10136
+      },
+      "names": [
+        "main"
+      ],
+      "idHints": [],
+      "runtime": [
+        "main"
+      ],
+      "files": [
+        "styles/main.css",
+        "scripts/main.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "d3149dac66500e6a1b68",
+      "childrenByOrder": {},
+      "id": 179,
+      "siblings": [
+        736
+      ],
+      "parents": [],
+      "children": [
+        43,
+        54,
+        177,
+        230,
+        421,
+        571,
+        736,
+        864
+      ],
+      "modules": [],
+      "origins": []
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 36016,
+      "sizes": {
+        "javascript": 36016
+      },
+      "names": [
+        "companies"
+      ],
+      "idHints": [],
+      "runtime": [
+        "main"
+      ],
+      "files": [
+        "scripts/companies.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "4c1dbeb154ba87645998",
+      "childrenByOrder": {},
+      "id": 230,
+      "siblings": [
+        736
+      ],
+      "parents": [
+        179,
+        736
+      ],
+      "children": [],
+      "modules": [],
+      "origins": []
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 44684,
+      "sizes": {
+        "javascript": 44684
+      },
+      "names": [
+        "contacts"
+      ],
+      "idHints": [],
+      "runtime": [
+        "main"
+      ],
+      "files": [
+        "scripts/contacts.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "dba84c894f1f41e7b435",
+      "childrenByOrder": {},
+      "id": 421,
+      "siblings": [
+        736
+      ],
+      "parents": [
+        179,
+        736
+      ],
+      "children": [],
+      "modules": [],
+      "origins": []
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 8746,
+      "sizes": {
+        "javascript": 8746
+      },
+      "names": [
+        "settings"
+      ],
+      "idHints": [],
+      "runtime": [
+        "main"
+      ],
+      "files": [
+        "scripts/settings.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "10afa393de2d6a286f6f",
+      "childrenByOrder": {},
+      "id": 571,
+      "siblings": [
+        736
+      ],
+      "parents": [
+        179,
+        736
+      ],
+      "children": [],
+      "modules": [],
+      "origins": []
+    },
+    {
+      "rendered": true,
+      "initial": true,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: vendor) (name: vendor)",
+      "size": 1853835,
+      "sizes": {
+        "javascript": 1853835
+      },
+      "names": [
+        "vendor"
+      ],
+      "idHints": [
+        "vendor"
+      ],
+      "runtime": [
+        "main"
+      ],
+      "files": [
+        "scripts/vendor.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "b3def4857e0c9901eba5",
+      "childrenByOrder": {},
+      "id": 736,
+      "siblings": [
+        54,
+        177,
+        179,
+        230,
+        421,
+        571
+      ],
+      "parents": [
+        179,
+        736
+      ],
+      "children": [
+        43,
+        54,
+        177,
+        230,
+        421,
+        571,
+        736,
+        864
+      ],
+      "modules": [],
+      "origins": []
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 3506,
+      "sizes": {
+        "javascript": 1448,
+        "css/mini-extract": 2058
+      },
+      "names": [
+        "noMatch"
+      ],
+      "idHints": [],
+      "runtime": [
+        "main"
+      ],
+      "files": [
+        "styles/noMatch.css",
+        "scripts/noMatch.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "77b94e4bfd551831784b",
+      "childrenByOrder": {},
+      "id": 864,
+      "siblings": [],
+      "parents": [
+        179,
+        736
+      ],
+      "children": [],
+      "modules": [],
+      "origins": []
+    }
+  ],
+  "entrypoints": {
+    "main": {
+      "name": "main",
+      "chunks": [
+        736,
+        179
+      ],
+      "assets": [
+        {
+          "name": "scripts/vendor.js"
+        },
+        {
+          "name": "styles/main.css"
+        },
+        {
+          "name": "scripts/main.js"
+        }
+      ],
+      "filteredAssets": 0,
+      "assetsSize": null,
+      "auxiliaryAssets": [],
+      "filteredAuxiliaryAssets": 0,
+      "auxiliaryAssetsSize": 0,
+      "children": {},
+      "childAssets": {},
+      "isOverSizeLimit": false
+    }
+  },
+  "namedChunkGroups": {
+    "main": {
+      "name": "main",
+      "chunks": [
+        736,
+        179
+      ],
+      "assets": [
+        {
+          "name": "scripts/vendor.js"
+        },
+        {
+          "name": "styles/main.css"
+        },
+        {
+          "name": "scripts/main.js"
+        }
+      ],
+      "filteredAssets": 0,
+      "assetsSize": null,
+      "auxiliaryAssets": [],
+      "filteredAuxiliaryAssets": 0,
+      "auxiliaryAssetsSize": 0,
+      "children": {},
+      "childAssets": {},
+      "isOverSizeLimit": false
+    },
+    "home": {
+      "name": "home",
+      "chunks": [
+        736,
+        177
+      ],
+      "assets": [
+        {
+          "name": "scripts/vendor.js"
+        },
+        {
+          "name": "scripts/home.js"
+        }
+      ],
+      "filteredAssets": 0,
+      "assetsSize": null,
+      "auxiliaryAssets": [],
+      "filteredAuxiliaryAssets": 0,
+      "auxiliaryAssetsSize": 0,
+      "children": {},
+      "childAssets": {},
+      "isOverSizeLimit": false
+    },
+    "contacts": {
+      "name": "contacts",
+      "chunks": [
+        736,
+        421
+      ],
+      "assets": [
+        {
+          "name": "scripts/vendor.js"
+        },
+        {
+          "name": "scripts/contacts.js"
+        }
+      ],
+      "filteredAssets": 0,
+      "assetsSize": null,
+      "auxiliaryAssets": [],
+      "filteredAuxiliaryAssets": 0,
+      "auxiliaryAssetsSize": 0,
+      "children": {},
+      "childAssets": {},
+      "isOverSizeLimit": false
+    },
+    "companies": {
+      "name": "companies",
+      "chunks": [
+        736,
+        230
+      ],
+      "assets": [
+        {
+          "name": "scripts/vendor.js"
+        },
+        {
+          "name": "scripts/companies.js"
+        }
+      ],
+      "filteredAssets": 0,
+      "assetsSize": null,
+      "auxiliaryAssets": [],
+      "filteredAuxiliaryAssets": 0,
+      "auxiliaryAssetsSize": 0,
+      "children": {},
+      "childAssets": {},
+      "isOverSizeLimit": false
+    },
+    "offers": {
+      "name": "offers",
+      "chunks": [
+        736,
+        54
+      ],
+      "assets": [
+        {
+          "name": "scripts/vendor.js"
+        },
+        {
+          "name": "scripts/offers.js"
+        }
+      ],
+      "filteredAssets": 0,
+      "assetsSize": null,
+      "auxiliaryAssets": [],
+      "filteredAuxiliaryAssets": 0,
+      "auxiliaryAssetsSize": 0,
+      "children": {},
+      "childAssets": {},
+      "isOverSizeLimit": false
+    },
+    "settings": {
+      "name": "settings",
+      "chunks": [
+        736,
+        571
+      ],
+      "assets": [
+        {
+          "name": "scripts/vendor.js"
+        },
+        {
+          "name": "scripts/settings.js"
+        }
+      ],
+      "filteredAssets": 0,
+      "assetsSize": null,
+      "auxiliaryAssets": [],
+      "filteredAuxiliaryAssets": 0,
+      "auxiliaryAssetsSize": 0,
+      "children": {},
+      "childAssets": {},
+      "isOverSizeLimit": false
+    },
+    "test": {
+      "name": "test",
+      "chunks": [
+        43
+      ],
+      "assets": [
+        {
+          "name": "scripts/test.js"
+        }
+      ],
+      "filteredAssets": 0,
+      "assetsSize": null,
+      "auxiliaryAssets": [],
+      "filteredAuxiliaryAssets": 0,
+      "auxiliaryAssetsSize": 0,
+      "children": {},
+      "childAssets": {},
+      "isOverSizeLimit": false
+    },
+    "noMatch": {
+      "name": "noMatch",
+      "chunks": [
+        864
+      ],
+      "assets": [
+        {
+          "name": "styles/noMatch.css"
+        },
+        {
+          "name": "scripts/noMatch.js"
+        }
+      ],
+      "filteredAssets": 0,
+      "assetsSize": null,
+      "auxiliaryAssets": [],
+      "filteredAuxiliaryAssets": 0,
+      "auxiliaryAssetsSize": 0,
+      "children": {},
+      "childAssets": {},
+      "isOverSizeLimit": false
+    }
+  },
+  "errors": [],
+  "errorsCount": 0,
+  "warnings": [],
+  "warningsCount": 0,
+  "children": [
+    {
+      "name": "mini-css-extract-plugin /Users/obie/Downloads/winkel-ssr/node_modules/css-loader/dist/cjs.js!/Users/obie/Downloads/winkel-ssr/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[1].use[2]!/Users/obie/Downloads/winkel-ssr/node_modules/sass-loader/dist/cjs.js!/Users/obie/Downloads/winkel-ssr/src/styles/index.scss",
+      "hash": "4efbfb0ccb37651366e9",
+      "version": "5.24.2",
+      "builtAt": 1615213463152,
+      "publicPath": "/",
+      "outputPath": "/Users/obie/Downloads/winkel-ssr/public",
+      "assetsByChunkName": {},
+      "assets": [],
+      "chunks": [
+        {
+          "rendered": true,
+          "initial": true,
+          "entry": true,
+          "recorded": false,
+          "size": 72762,
+          "sizes": {
+            "javascript": 71825,
+            "runtime": 937
+          },
+          "names": [
+            "child"
+          ],
+          "idHints": [],
+          "runtime": [
+            "child"
+          ],
+          "files": [],
+          "auxiliaryFiles": [],
+          "hash": "33bc315e6c6eee6198f6",
+          "childrenByOrder": {},
+          "id": 396,
+          "siblings": [],
+          "parents": [],
+          "children": [],
+          "modules": [
+            {
+              "type": "module",
+              "moduleType": "javascript/auto",
+              "layer": null,
+              "size": 70220,
+              "sizes": {
+                "javascript": 70220
+              },
+              "built": true,
+              "codeGenerated": true,
+              "cached": false,
+              "identifier": "/Users/obie/Downloads/winkel-ssr/node_modules/css-loader/dist/cjs.js!/Users/obie/Downloads/winkel-ssr/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[1].use[2]!/Users/obie/Downloads/winkel-ssr/node_modules/sass-loader/dist/cjs.js!/Users/obie/Downloads/winkel-ssr/src/styles/index.scss",
+              "name": "./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[1].use[2]!./node_modules/sass-loader/dist/cjs.js!./src/styles/index.scss",
+              "nameForCondition": "/Users/obie/Downloads/winkel-ssr/src/styles/index.scss",
+              "index": 0,
+              "preOrderIndex": 0,
+              "index2": 1,
+              "postOrderIndex": 1,
+              "cacheable": true,
+              "optional": false,
+              "orphan": false,
+              "dependent": false,
+              "issuer": null,
+              "issuerName": null,
+              "issuerPath": null,
+              "failed": false,
+              "errors": 0,
+              "warnings": 0,
+              "id": 989,
+              "issuerId": null,
+              "chunks": [
+                396
+              ],
+              "assets": [],
+              "reasons": [
+                {
+                  "moduleIdentifier": null,
+                  "module": null,
+                  "moduleName": null,
+                  "resolvedModuleIdentifier": null,
+                  "resolvedModule": null,
+                  "type": "entry",
+                  "active": true,
+                  "explanation": "",
+                  "userRequest": "!!/Users/obie/Downloads/winkel-ssr/node_modules/css-loader/dist/cjs.js!/Users/obie/Downloads/winkel-ssr/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[1].use[2]!/Users/obie/Downloads/winkel-ssr/node_modules/sass-loader/dist/cjs.js!/Users/obie/Downloads/winkel-ssr/src/styles/index.scss",
+                  "loc": "child",
+                  "moduleId": null,
+                  "resolvedModuleId": null
+                },
+                {
+                  "moduleIdentifier": null,
+                  "module": null,
+                  "moduleName": null,
+                  "resolvedModuleIdentifier": null,
+                  "resolvedModule": null,
+                  "type": null,
+                  "active": true,
+                  "explanation": "used as library export",
+                  "userRequest": null,
+                  "moduleId": null,
+                  "resolvedModuleId": null
+                }
+              ],
+              "usedExports": true,
+              "providedExports": [
+                "default"
+              ],
+              "optimizationBailout": [
+                "Statement (VariableDeclaration) with side effects in source code at 3:0-84",
+                "ModuleConcatenation bailout: Module uses module.id"
+              ],
+              "depth": 0
+            },
+            {
+              "type": "module",
+              "moduleType": "javascript/auto",
+              "layer": null,
+              "size": 1605,
+              "sizes": {
+                "javascript": 1605
+              },
+              "built": true,
+              "codeGenerated": true,
+              "cached": false,
+              "identifier": "/Users/obie/Downloads/winkel-ssr/node_modules/babel-loader/lib/index.js!/Users/obie/Downloads/winkel-ssr/node_modules/css-loader/dist/runtime/api.js",
+              "name": "./node_modules/css-loader/dist/runtime/api.js",
+              "nameForCondition": "/Users/obie/Downloads/winkel-ssr/node_modules/css-loader/dist/runtime/api.js",
+              "index": 1,
+              "preOrderIndex": 1,
+              "index2": 0,
+              "postOrderIndex": 0,
+              "cacheable": true,
+              "optional": false,
+              "orphan": false,
+              "dependent": true,
+              "issuer": "/Users/obie/Downloads/winkel-ssr/node_modules/css-loader/dist/cjs.js!/Users/obie/Downloads/winkel-ssr/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[1].use[2]!/Users/obie/Downloads/winkel-ssr/node_modules/sass-loader/dist/cjs.js!/Users/obie/Downloads/winkel-ssr/src/styles/index.scss",
+              "issuerName": "./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[1].use[2]!./node_modules/sass-loader/dist/cjs.js!./src/styles/index.scss",
+              "issuerPath": [
+                {
+                  "identifier": "/Users/obie/Downloads/winkel-ssr/node_modules/css-loader/dist/cjs.js!/Users/obie/Downloads/winkel-ssr/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[1].use[2]!/Users/obie/Downloads/winkel-ssr/node_modules/sass-loader/dist/cjs.js!/Users/obie/Downloads/winkel-ssr/src/styles/index.scss",
+                  "name": "./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[1].use[2]!./node_modules/sass-loader/dist/cjs.js!./src/styles/index.scss",
+                  "id": 989
+                }
+              ],
+              "failed": false,
+              "errors": 0,
+              "warnings": 0,
+              "id": 705,
+              "issuerId": 989,
+              "chunks": [
+                396
+              ],
+              "assets": [],
+              "reasons": [
+                {
+                  "moduleIdentifier": "/Users/obie/Downloads/winkel-ssr/node_modules/babel-loader/lib/index.js!/Users/obie/Downloads/winkel-ssr/node_modules/css-loader/dist/runtime/api.js",
+                  "module": "./node_modules/css-loader/dist/runtime/api.js",
+                  "moduleName": "./node_modules/css-loader/dist/runtime/api.js",
+                  "resolvedModuleIdentifier": "/Users/obie/Downloads/winkel-ssr/node_modules/babel-loader/lib/index.js!/Users/obie/Downloads/winkel-ssr/node_modules/css-loader/dist/runtime/api.js",
+                  "resolvedModule": "./node_modules/css-loader/dist/runtime/api.js",
+                  "type": "cjs self exports reference",
+                  "active": true,
+                  "explanation": "",
+                  "userRequest": null,
+                  "loc": "9:0-14",
+                  "moduleId": 705,
+                  "resolvedModuleId": 705
+                },
+                {
+                  "moduleIdentifier": "/Users/obie/Downloads/winkel-ssr/node_modules/css-loader/dist/cjs.js!/Users/obie/Downloads/winkel-ssr/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[1].use[2]!/Users/obie/Downloads/winkel-ssr/node_modules/sass-loader/dist/cjs.js!/Users/obie/Downloads/winkel-ssr/src/styles/index.scss",
+                  "module": "./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[1].use[2]!./node_modules/sass-loader/dist/cjs.js!./src/styles/index.scss",
+                  "moduleName": "./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[1].use[2]!./node_modules/sass-loader/dist/cjs.js!./src/styles/index.scss",
+                  "resolvedModuleIdentifier": "/Users/obie/Downloads/winkel-ssr/node_modules/css-loader/dist/cjs.js!/Users/obie/Downloads/winkel-ssr/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[1].use[2]!/Users/obie/Downloads/winkel-ssr/node_modules/sass-loader/dist/cjs.js!/Users/obie/Downloads/winkel-ssr/src/styles/index.scss",
+                  "resolvedModule": "./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[1].use[2]!./node_modules/sass-loader/dist/cjs.js!./src/styles/index.scss",
+                  "type": "harmony side effect evaluation",
+                  "active": true,
+                  "explanation": "",
+                  "userRequest": "../../node_modules/css-loader/dist/runtime/api.js",
+                  "loc": "2:0-92",
+                  "moduleId": 989,
+                  "resolvedModuleId": 989
+                },
+                {
+                  "moduleIdentifier": "/Users/obie/Downloads/winkel-ssr/node_modules/css-loader/dist/cjs.js!/Users/obie/Downloads/winkel-ssr/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[1].use[2]!/Users/obie/Downloads/winkel-ssr/node_modules/sass-loader/dist/cjs.js!/Users/obie/Downloads/winkel-ssr/src/styles/index.scss",
+                  "module": "./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[1].use[2]!./node_modules/sass-loader/dist/cjs.js!./src/styles/index.scss",
+                  "moduleName": "./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[1].use[2]!./node_modules/sass-loader/dist/cjs.js!./src/styles/index.scss",
+                  "resolvedModuleIdentifier": "/Users/obie/Downloads/winkel-ssr/node_modules/css-loader/dist/cjs.js!/Users/obie/Downloads/winkel-ssr/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[1].use[2]!/Users/obie/Downloads/winkel-ssr/node_modules/sass-loader/dist/cjs.js!/Users/obie/Downloads/winkel-ssr/src/styles/index.scss",
+                  "resolvedModule": "./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[1].use[2]!./node_modules/sass-loader/dist/cjs.js!./src/styles/index.scss",
+                  "type": "harmony import specifier",
+                  "active": true,
+                  "explanation": "",
+                  "userRequest": "../../node_modules/css-loader/dist/runtime/api.js",
+                  "loc": "3:30-57",
+                  "moduleId": 989,
+                  "resolvedModuleId": 989
+                }
+              ],
+              "usedExports": null,
+              "providedExports": null,
+              "optimizationBailout": [
+                "CommonJS bailout: module.exports is used directly at 9:0-14",
+                "Statement (ExpressionStatement) with side effects in source code at 9:0-66:2",
+                "ModuleConcatenation bailout: Module is not an ECMAScript module"
+              ],
+              "depth": 1
+            },
+            {
+              "type": "module",
+              "moduleType": "runtime",
+              "layer": null,
+              "size": 267,
+              "sizes": {
+                "runtime": 267
+              },
+              "built": false,
+              "codeGenerated": true,
+              "cached": false,
+              "identifier": "webpack/runtime/compat get default export",
+              "name": "webpack/runtime/compat get default export",
+              "nameForCondition": null,
+              "index": null,
+              "preOrderIndex": null,
+              "index2": null,
+              "postOrderIndex": null,
+              "optional": false,
+              "orphan": false,
+              "dependent": false,
+              "failed": false,
+              "errors": 0,
+              "warnings": 0,
+              "id": "",
+              "chunks": [
+                396
+              ],
+              "assets": [],
+              "reasons": [],
+              "usedExports": null,
+              "providedExports": [],
+              "optimizationBailout": [],
+              "depth": null
+            },
+            {
+              "type": "module",
+              "moduleType": "runtime",
+              "layer": null,
+              "size": 308,
+              "sizes": {
+                "runtime": 308
+              },
+              "built": false,
+              "codeGenerated": true,
+              "cached": false,
+              "identifier": "webpack/runtime/define property getters",
+              "name": "webpack/runtime/define property getters",
+              "nameForCondition": null,
+              "index": null,
+              "preOrderIndex": null,
+              "index2": null,
+              "postOrderIndex": null,
+              "optional": false,
+              "orphan": false,
+              "dependent": false,
+              "failed": false,
+              "errors": 0,
+              "warnings": 0,
+              "id": "",
+              "chunks": [
+                396
+              ],
+              "assets": [],
+              "reasons": [],
+              "usedExports": null,
+              "providedExports": [],
+              "optimizationBailout": [],
+              "depth": null
+            },
+            {
+              "type": "module",
+              "moduleType": "runtime",
+              "layer": null,
+              "size": 88,
+              "sizes": {
+                "runtime": 88
+              },
+              "built": false,
+              "codeGenerated": true,
+              "cached": false,
+              "identifier": "webpack/runtime/hasOwnProperty shorthand",
+              "name": "webpack/runtime/hasOwnProperty shorthand",
+              "nameForCondition": null,
+              "index": null,
+              "preOrderIndex": null,
+              "index2": null,
+              "postOrderIndex": null,
+              "optional": false,
+              "orphan": false,
+              "dependent": false,
+              "failed": false,
+              "errors": 0,
+              "warnings": 0,
+              "id": "",
+              "chunks": [
+                396
+              ],
+              "assets": [],
+              "reasons": [],
+              "usedExports": null,
+              "providedExports": [],
+              "optimizationBailout": [],
+              "depth": null
+            },
+            {
+              "type": "module",
+              "moduleType": "runtime",
+              "layer": null,
+              "size": 274,
+              "sizes": {
+                "runtime": 274
+              },
+              "built": false,
+              "codeGenerated": true,
+              "cached": false,
+              "identifier": "webpack/runtime/make namespace object",
+              "name": "webpack/runtime/make namespace object",
+              "nameForCondition": null,
+              "index": null,
+              "preOrderIndex": null,
+              "index2": null,
+              "postOrderIndex": null,
+              "optional": false,
+              "orphan": false,
+              "dependent": false,
+              "failed": false,
+              "errors": 0,
+              "warnings": 0,
+              "id": "",
+              "chunks": [
+                396
+              ],
+              "assets": [],
+              "reasons": [],
+              "usedExports": null,
+              "providedExports": [],
+              "optimizationBailout": [],
+              "depth": null
+            }
+          ],
+          "origins": [
+            {
+              "module": "",
+              "moduleIdentifier": "",
+              "moduleName": "",
+              "loc": "child",
+              "request": "!!/Users/obie/Downloads/winkel-ssr/node_modules/css-loader/dist/cjs.js!/Users/obie/Downloads/winkel-ssr/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[1].use[2]!/Users/obie/Downloads/winkel-ssr/node_modules/sass-loader/dist/cjs.js!/Users/obie/Downloads/winkel-ssr/src/styles/index.scss"
+            }
+          ]
+        }
+      ],
+      "entrypoints": {
+        "child": {
+          "name": "child",
+          "chunks": [
+            396
+          ],
+          "assets": [],
+          "filteredAssets": 0,
+          "assetsSize": 0,
+          "auxiliaryAssets": [],
+          "filteredAuxiliaryAssets": 0,
+          "auxiliaryAssetsSize": 0,
+          "children": {},
+          "childAssets": {},
+          "isOverSizeLimit": false
+        }
+      },
+      "namedChunkGroups": {
+        "child": {
+          "name": "child",
+          "chunks": [
+            396
+          ],
+          "assets": [],
+          "filteredAssets": 0,
+          "assetsSize": 0,
+          "auxiliaryAssets": [],
+          "filteredAuxiliaryAssets": 0,
+          "auxiliaryAssetsSize": 0,
+          "children": {},
+          "childAssets": {},
+          "isOverSizeLimit": false
+        }
+      },
+      "errors": [],
+      "errorsCount": 0,
+      "warnings": [],
+      "warningsCount": 0,
+      "children": []
+    },
+    {
+      "name": "mini-css-extract-plugin /Users/obie/Downloads/winkel-ssr/node_modules/css-loader/dist/cjs.js!/Users/obie/Downloads/winkel-ssr/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[1].use[2]!/Users/obie/Downloads/winkel-ssr/node_modules/sass-loader/dist/cjs.js!/Users/obie/Downloads/winkel-ssr/src/styles/routes/_route-error.scss",
+      "hash": "02f248491de87c463a35",
+      "version": "5.24.2",
+      "builtAt": 1615213460387,
+      "publicPath": "/",
+      "outputPath": "/Users/obie/Downloads/winkel-ssr/public",
+      "assetsByChunkName": {},
+      "assets": [],
+      "chunks": [
+        {
+          "rendered": true,
+          "initial": true,
+          "entry": true,
+          "recorded": false,
+          "size": 4905,
+          "sizes": {
+            "javascript": 3968,
+            "runtime": 937
+          },
+          "names": [
+            "child"
+          ],
+          "idHints": [],
+          "runtime": [
+            "child"
+          ],
+          "files": [],
+          "auxiliaryFiles": [],
+          "hash": "07af9a9783aa97e04af1",
+          "childrenByOrder": {},
+          "id": 396,
+          "siblings": [],
+          "parents": [],
+          "children": [],
+          "modules": [
+            {
+              "type": "module",
+              "moduleType": "javascript/auto",
+              "layer": null,
+              "size": 2363,
+              "sizes": {
+                "javascript": 2363
+              },
+              "built": true,
+              "codeGenerated": true,
+              "cached": false,
+              "identifier": "/Users/obie/Downloads/winkel-ssr/node_modules/css-loader/dist/cjs.js!/Users/obie/Downloads/winkel-ssr/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[1].use[2]!/Users/obie/Downloads/winkel-ssr/node_modules/sass-loader/dist/cjs.js!/Users/obie/Downloads/winkel-ssr/src/styles/routes/_route-error.scss",
+              "name": "./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[1].use[2]!./node_modules/sass-loader/dist/cjs.js!./src/styles/routes/_route-error.scss",
+              "nameForCondition": "/Users/obie/Downloads/winkel-ssr/src/styles/routes/_route-error.scss",
+              "index": 0,
+              "preOrderIndex": 0,
+              "index2": 1,
+              "postOrderIndex": 1,
+              "cacheable": true,
+              "optional": false,
+              "orphan": false,
+              "dependent": false,
+              "issuer": null,
+              "issuerName": null,
+              "issuerPath": null,
+              "failed": false,
+              "errors": 0,
+              "warnings": 0,
+              "id": 1,
+              "issuerId": null,
+              "chunks": [
+                396
+              ],
+              "assets": [],
+              "reasons": [
+                {
+                  "moduleIdentifier": null,
+                  "module": null,
+                  "moduleName": null,
+                  "resolvedModuleIdentifier": null,
+                  "resolvedModule": null,
+                  "type": "entry",
+                  "active": true,
+                  "explanation": "",
+                  "userRequest": "!!/Users/obie/Downloads/winkel-ssr/node_modules/css-loader/dist/cjs.js!/Users/obie/Downloads/winkel-ssr/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[1].use[2]!/Users/obie/Downloads/winkel-ssr/node_modules/sass-loader/dist/cjs.js!/Users/obie/Downloads/winkel-ssr/src/styles/routes/_route-error.scss",
+                  "loc": "child",
+                  "moduleId": null,
+                  "resolvedModuleId": null
+                },
+                {
+                  "moduleIdentifier": null,
+                  "module": null,
+                  "moduleName": null,
+                  "resolvedModuleIdentifier": null,
+                  "resolvedModule": null,
+                  "type": null,
+                  "active": true,
+                  "explanation": "used as library export",
+                  "userRequest": null,
+                  "moduleId": null,
+                  "resolvedModuleId": null
+                }
+              ],
+              "usedExports": true,
+              "providedExports": [
+                "default"
+              ],
+              "optimizationBailout": [
+                "Statement (VariableDeclaration) with side effects in source code at 3:0-84",
+                "ModuleConcatenation bailout: Module uses module.id"
+              ],
+              "depth": 0
+            },
+            {
+              "type": "module",
+              "moduleType": "javascript/auto",
+              "layer": null,
+              "size": 1605,
+              "sizes": {
+                "javascript": 1605
+              },
+              "built": true,
+              "codeGenerated": true,
+              "cached": false,
+              "identifier": "/Users/obie/Downloads/winkel-ssr/node_modules/babel-loader/lib/index.js!/Users/obie/Downloads/winkel-ssr/node_modules/css-loader/dist/runtime/api.js",
+              "name": "./node_modules/css-loader/dist/runtime/api.js",
+              "nameForCondition": "/Users/obie/Downloads/winkel-ssr/node_modules/css-loader/dist/runtime/api.js",
+              "index": 1,
+              "preOrderIndex": 1,
+              "index2": 0,
+              "postOrderIndex": 0,
+              "cacheable": true,
+              "optional": false,
+              "orphan": false,
+              "dependent": true,
+              "issuer": "/Users/obie/Downloads/winkel-ssr/node_modules/css-loader/dist/cjs.js!/Users/obie/Downloads/winkel-ssr/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[1].use[2]!/Users/obie/Downloads/winkel-ssr/node_modules/sass-loader/dist/cjs.js!/Users/obie/Downloads/winkel-ssr/src/styles/routes/_route-error.scss",
+              "issuerName": "./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[1].use[2]!./node_modules/sass-loader/dist/cjs.js!./src/styles/routes/_route-error.scss",
+              "issuerPath": [
+                {
+                  "identifier": "/Users/obie/Downloads/winkel-ssr/node_modules/css-loader/dist/cjs.js!/Users/obie/Downloads/winkel-ssr/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[1].use[2]!/Users/obie/Downloads/winkel-ssr/node_modules/sass-loader/dist/cjs.js!/Users/obie/Downloads/winkel-ssr/src/styles/routes/_route-error.scss",
+                  "name": "./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[1].use[2]!./node_modules/sass-loader/dist/cjs.js!./src/styles/routes/_route-error.scss",
+                  "id": 1
+                }
+              ],
+              "failed": false,
+              "errors": 0,
+              "warnings": 0,
+              "id": 705,
+              "issuerId": 1,
+              "chunks": [
+                396
+              ],
+              "assets": [],
+              "reasons": [
+                {
+                  "moduleIdentifier": "/Users/obie/Downloads/winkel-ssr/node_modules/babel-loader/lib/index.js!/Users/obie/Downloads/winkel-ssr/node_modules/css-loader/dist/runtime/api.js",
+                  "module": "./node_modules/css-loader/dist/runtime/api.js",
+                  "moduleName": "./node_modules/css-loader/dist/runtime/api.js",
+                  "resolvedModuleIdentifier": "/Users/obie/Downloads/winkel-ssr/node_modules/babel-loader/lib/index.js!/Users/obie/Downloads/winkel-ssr/node_modules/css-loader/dist/runtime/api.js",
+                  "resolvedModule": "./node_modules/css-loader/dist/runtime/api.js",
+                  "type": "cjs self exports reference",
+                  "active": true,
+                  "explanation": "",
+                  "userRequest": null,
+                  "loc": "9:0-14",
+                  "moduleId": 705,
+                  "resolvedModuleId": 705
+                },
+                {
+                  "moduleIdentifier": "/Users/obie/Downloads/winkel-ssr/node_modules/css-loader/dist/cjs.js!/Users/obie/Downloads/winkel-ssr/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[1].use[2]!/Users/obie/Downloads/winkel-ssr/node_modules/sass-loader/dist/cjs.js!/Users/obie/Downloads/winkel-ssr/src/styles/routes/_route-error.scss",
+                  "module": "./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[1].use[2]!./node_modules/sass-loader/dist/cjs.js!./src/styles/routes/_route-error.scss",
+                  "moduleName": "./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[1].use[2]!./node_modules/sass-loader/dist/cjs.js!./src/styles/routes/_route-error.scss",
+                  "resolvedModuleIdentifier": "/Users/obie/Downloads/winkel-ssr/node_modules/css-loader/dist/cjs.js!/Users/obie/Downloads/winkel-ssr/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[1].use[2]!/Users/obie/Downloads/winkel-ssr/node_modules/sass-loader/dist/cjs.js!/Users/obie/Downloads/winkel-ssr/src/styles/routes/_route-error.scss",
+                  "resolvedModule": "./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[1].use[2]!./node_modules/sass-loader/dist/cjs.js!./src/styles/routes/_route-error.scss",
+                  "type": "harmony side effect evaluation",
+                  "active": true,
+                  "explanation": "",
+                  "userRequest": "../../../node_modules/css-loader/dist/runtime/api.js",
+                  "loc": "2:0-95",
+                  "moduleId": 1,
+                  "resolvedModuleId": 1
+                },
+                {
+                  "moduleIdentifier": "/Users/obie/Downloads/winkel-ssr/node_modules/css-loader/dist/cjs.js!/Users/obie/Downloads/winkel-ssr/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[1].use[2]!/Users/obie/Downloads/winkel-ssr/node_modules/sass-loader/dist/cjs.js!/Users/obie/Downloads/winkel-ssr/src/styles/routes/_route-error.scss",
+                  "module": "./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[1].use[2]!./node_modules/sass-loader/dist/cjs.js!./src/styles/routes/_route-error.scss",
+                  "moduleName": "./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[1].use[2]!./node_modules/sass-loader/dist/cjs.js!./src/styles/routes/_route-error.scss",
+                  "resolvedModuleIdentifier": "/Users/obie/Downloads/winkel-ssr/node_modules/css-loader/dist/cjs.js!/Users/obie/Downloads/winkel-ssr/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[1].use[2]!/Users/obie/Downloads/winkel-ssr/node_modules/sass-loader/dist/cjs.js!/Users/obie/Downloads/winkel-ssr/src/styles/routes/_route-error.scss",
+                  "resolvedModule": "./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[1].use[2]!./node_modules/sass-loader/dist/cjs.js!./src/styles/routes/_route-error.scss",
+                  "type": "harmony import specifier",
+                  "active": true,
+                  "explanation": "",
+                  "userRequest": "../../../node_modules/css-loader/dist/runtime/api.js",
+                  "loc": "3:30-57",
+                  "moduleId": 1,
+                  "resolvedModuleId": 1
+                }
+              ],
+              "usedExports": null,
+              "providedExports": null,
+              "optimizationBailout": [
+                "CommonJS bailout: module.exports is used directly at 9:0-14",
+                "Statement (ExpressionStatement) with side effects in source code at 9:0-66:2",
+                "ModuleConcatenation bailout: Module is not an ECMAScript module"
+              ],
+              "depth": 1
+            },
+            {
+              "type": "module",
+              "moduleType": "runtime",
+              "layer": null,
+              "size": 267,
+              "sizes": {
+                "runtime": 267
+              },
+              "built": false,
+              "codeGenerated": true,
+              "cached": false,
+              "identifier": "webpack/runtime/compat get default export",
+              "name": "webpack/runtime/compat get default export",
+              "nameForCondition": null,
+              "index": null,
+              "preOrderIndex": null,
+              "index2": null,
+              "postOrderIndex": null,
+              "optional": false,
+              "orphan": false,
+              "dependent": false,
+              "failed": false,
+              "errors": 0,
+              "warnings": 0,
+              "id": "",
+              "chunks": [
+                396
+              ],
+              "assets": [],
+              "reasons": [],
+              "usedExports": null,
+              "providedExports": [],
+              "optimizationBailout": [],
+              "depth": null
+            },
+            {
+              "type": "module",
+              "moduleType": "runtime",
+              "layer": null,
+              "size": 308,
+              "sizes": {
+                "runtime": 308
+              },
+              "built": false,
+              "codeGenerated": true,
+              "cached": false,
+              "identifier": "webpack/runtime/define property getters",
+              "name": "webpack/runtime/define property getters",
+              "nameForCondition": null,
+              "index": null,
+              "preOrderIndex": null,
+              "index2": null,
+              "postOrderIndex": null,
+              "optional": false,
+              "orphan": false,
+              "dependent": false,
+              "failed": false,
+              "errors": 0,
+              "warnings": 0,
+              "id": "",
+              "chunks": [
+                396
+              ],
+              "assets": [],
+              "reasons": [],
+              "usedExports": null,
+              "providedExports": [],
+              "optimizationBailout": [],
+              "depth": null
+            },
+            {
+              "type": "module",
+              "moduleType": "runtime",
+              "layer": null,
+              "size": 88,
+              "sizes": {
+                "runtime": 88
+              },
+              "built": false,
+              "codeGenerated": true,
+              "cached": false,
+              "identifier": "webpack/runtime/hasOwnProperty shorthand",
+              "name": "webpack/runtime/hasOwnProperty shorthand",
+              "nameForCondition": null,
+              "index": null,
+              "preOrderIndex": null,
+              "index2": null,
+              "postOrderIndex": null,
+              "optional": false,
+              "orphan": false,
+              "dependent": false,
+              "failed": false,
+              "errors": 0,
+              "warnings": 0,
+              "id": "",
+              "chunks": [
+                396
+              ],
+              "assets": [],
+              "reasons": [],
+              "usedExports": null,
+              "providedExports": [],
+              "optimizationBailout": [],
+              "depth": null
+            },
+            {
+              "type": "module",
+              "moduleType": "runtime",
+              "layer": null,
+              "size": 274,
+              "sizes": {
+                "runtime": 274
+              },
+              "built": false,
+              "codeGenerated": true,
+              "cached": false,
+              "identifier": "webpack/runtime/make namespace object",
+              "name": "webpack/runtime/make namespace object",
+              "nameForCondition": null,
+              "index": null,
+              "preOrderIndex": null,
+              "index2": null,
+              "postOrderIndex": null,
+              "optional": false,
+              "orphan": false,
+              "dependent": false,
+              "failed": false,
+              "errors": 0,
+              "warnings": 0,
+              "id": "",
+              "chunks": [
+                396
+              ],
+              "assets": [],
+              "reasons": [],
+              "usedExports": null,
+              "providedExports": [],
+              "optimizationBailout": [],
+              "depth": null
+            }
+          ],
+          "origins": [
+            {
+              "module": "",
+              "moduleIdentifier": "",
+              "moduleName": "",
+              "loc": "child",
+              "request": "!!/Users/obie/Downloads/winkel-ssr/node_modules/css-loader/dist/cjs.js!/Users/obie/Downloads/winkel-ssr/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[1].use[2]!/Users/obie/Downloads/winkel-ssr/node_modules/sass-loader/dist/cjs.js!/Users/obie/Downloads/winkel-ssr/src/styles/routes/_route-error.scss"
+            }
+          ]
+        }
+      ],
+      "entrypoints": {
+        "child": {
+          "name": "child",
+          "chunks": [
+            396
+          ],
+          "assets": [],
+          "filteredAssets": 0,
+          "assetsSize": 0,
+          "auxiliaryAssets": [],
+          "filteredAuxiliaryAssets": 0,
+          "auxiliaryAssetsSize": 0,
+          "children": {},
+          "childAssets": {},
+          "isOverSizeLimit": false
+        }
+      },
+      "namedChunkGroups": {
+        "child": {
+          "name": "child",
+          "chunks": [
+            396
+          ],
+          "assets": [],
+          "filteredAssets": 0,
+          "assetsSize": 0,
+          "auxiliaryAssets": [],
+          "filteredAuxiliaryAssets": 0,
+          "auxiliaryAssetsSize": 0,
+          "children": {},
+          "childAssets": {},
+          "isOverSizeLimit": false
+        }
+      },
+      "errors": [],
+      "errorsCount": 0,
+      "warnings": [],
+      "warningsCount": 0,
+      "children": []
+    }
+  ],
+  "generator": "loadable-components"
+}

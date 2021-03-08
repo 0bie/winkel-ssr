@@ -1,0 +1,11 @@
+main {
+    flex-grow: 1;
+    overflow: hidden;
+}
+
+.svg-sprite {
+    width: 0;
+    height: 0;
+    position: absolute;
+    left: -9999em;
+}
