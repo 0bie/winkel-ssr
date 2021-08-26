@@ -6,14 +6,14 @@ export default function CompanyItemPlaceholder() {
             <div className="company-media" />
             <div className="company-content placeholder">
                 <div className="company-meta">
-                    <h3 className="company-title" />
+                    <h2 className="company-title" />
                     <span className="company-location" />
                 </div>
             </div>
             <div className="company-meta">
-                <h3 className="company-status">
+                <h2 className="company-status">
                     <span />
-                </h3>
+                </h2>
                 <span className="company-supply" />
             </div>
             <div className="company-actions">

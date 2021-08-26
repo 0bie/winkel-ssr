@@ -10,37 +10,40 @@ export default function Settings() {
     return (
         <Fragment>
             <header className="header--panel header--contact">
-                <h3 className="title--panel">Settings</h3>
+                <h1 className="title--panel">Settings</h1>
             </header>
             {state && state.user && (
                 <section className="content--setting">
                     <form id="user_edit" className="panel-form">
                         <div className="panel-input mb--sm">
-                            <label className="input-label">API Key</label>
+                            <label className="input-label" htmlFor="apiKey">API Key</label>
                             <Input
                                 size="xs"
                                 disabled
                                 name="apiKey"
+                                inputId="apiKey"
                                 defaultValue={state.user.apiKey}
                                 classNames={['input--full']}
                             />
                         </div>
                         <div className="input-row">
                             <div className="panel-input mb--sm">
-                                <label className="input-label">
+                                <label htmlFor="fName" className="input-label">
                                     first name
                                 </label>
                                 <Input
                                     size="xs"
+                                    inputId="fName"
                                     name="firstName"
                                     defaultValue={state.user.firstName}
                                     classNames={['input--full']}
                                 />
                             </div>
                             <div className="panel-input mb--sm">
-                                <label className="input-label">last name</label>
+                                <label htmlFor="lName" className="input-label">last name</label>
                                 <Input
                                     size="xs"
+                                    inputId="lName"
                                     name="lastName"
                                     placeholder="Doe"
                                     defaultValue={state.user.lastName}
@@ -49,18 +52,20 @@ export default function Settings() {
                             </div>
                         </div>
                         <div className="panel-input mb--sm">
-                            <label className="input-label">email</label>
+                            <label htmlFor="email" className="input-label">email</label>
                             <Input
                                 size="xs"
+                                inputId="email"
                                 name="email"
                                 classNames={['input--full']}
                                 defaultValue={state.user.email}
                             />
                         </div>
                         <div className="panel-input mb--sm">
-                            <label className="input-label">password</label>
+                            <label htmlFor="pwd" className="input-label">password</label>
                             <Input
                                 size="xs"
+                                inputId="pwd"
                                 name="password"
                                 type="password"
                                 classNames={['input--full']}

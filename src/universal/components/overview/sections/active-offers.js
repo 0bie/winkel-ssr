@@ -6,9 +6,9 @@ export default function Offer({title, products}) {
     return (
         <Fragment>
             {title && (
-                <h4 className="overview-title">
+                <h3 className="overview-title">
                     <span className="title-text">{title}</span>
-                </h4>
+                </h3>
             )}
             <div className="overview-offers">
                 {!products && <ProductPlaceholder />}

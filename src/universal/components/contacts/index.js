@@ -24,7 +24,7 @@ export default function Contacts({data}) {
     return (
         <Fragment>
             <header className="header--panel header--contact">
-                <h3 className="title--panel">Contacts</h3>
+                <h1 className="title--panel">Contacts</h1>
                 <div className="contact-add">
                     <Button
                         size="xs"

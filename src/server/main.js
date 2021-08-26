@@ -12,6 +12,7 @@ import {ORIGIN, CSP_DIRECTIVES} from '../helpers/constants'
 
 const app = express()
 
+app.disable('etag')
 app.disable('x-powered-by')
 
 app.use(cors({
