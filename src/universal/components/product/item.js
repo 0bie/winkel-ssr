@@ -16,12 +16,12 @@ export default function ProductItem({
         <li className="cardlist-item">
             <div className="cardlist-media">
                 <figure className="image-container">
-                    <img src={image.src} alt={name} />
+                    <img src={image.src} alt={name} loading="lazy" />
                 </figure>
             </div>
             <div className="cardlist-content">
                 <header className="cardlist-header">
-                    <h4 className="cardlist-title">{name}</h4>
+                    <h2 className="cardlist-title">{name}</h2>
                     {supplier && (
                         <div className="cardlist-meta">{supplier}</div>
                     )}
@@ -30,16 +30,16 @@ export default function ProductItem({
                     <div className="cardlist-footer">
                         <ul className="meta-list">
                             <li className="meta-item">
-                                <h4 className="meta-price">
+                                <h2 className="meta-price">
                                     <span className="meta-value">
                                         {formatNumber(price)}
                                     </span>
                                     <span className="meta-unit">CAD</span>
-                                </h4>
+                                </h2>
                                 <div className="meta-source">{quantity}</div>
                             </li>
                             <li className="meta-item">
-                                <h4 className="meta-date">
+                                <h2 className="meta-date">
                                     <span
                                         className="meta-duration"
                                         title={`offer expires in ${parseDate({
@@ -51,7 +51,7 @@ export default function ProductItem({
                                     <span className="meta-notice">
                                         {units} units
                                     </span>
-                                </h4>
+                                </h2>
                             </li>
                         </ul>
                     </div>

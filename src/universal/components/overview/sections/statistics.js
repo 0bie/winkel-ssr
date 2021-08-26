@@ -19,7 +19,7 @@ export default function Statistics({products, contacts, companies}) {
                     {state.user && state.user.messages && (
                         <Fragment>
                             <header className="stats-header">
-                                <h3>
+                                <h2 className="stats-text">
                                     <span className="stats-title">
                                         contacts
                                     </span>
@@ -33,7 +33,7 @@ export default function Statistics({products, contacts, companies}) {
                                             )}
                                         </small>
                                     )}
-                                </h3>
+                                </h2>
                             </header>
                             {contacts && contacts.length && (
                                 <div className="stats-content">
@@ -52,7 +52,7 @@ export default function Statistics({products, contacts, companies}) {
                     {state.user && state.user.orders && (
                         <Fragment>
                             <header className="stats-header">
-                                <h3>
+                                <h2 className="stats-text">
                                     <span className="stats-title">
                                         products
                                     </span>
@@ -65,7 +65,7 @@ export default function Statistics({products, contacts, companies}) {
                                             )}
                                         </small>
                                     )}
-                                </h3>
+                                </h2>
                             </header>
                             {products && products.length && (
                                 <div className="stats-content">
@@ -84,7 +84,7 @@ export default function Statistics({products, contacts, companies}) {
                     {state.user && state.user.offers && (
                         <Fragment>
                             <header className="stats-header">
-                                <h3>
+                                <h2 className="stats-text">
                                     <span className="stats-title">
                                         companies
                                     </span>
@@ -98,7 +98,7 @@ export default function Statistics({products, contacts, companies}) {
                                             )}
                                         </small>
                                     )}
-                                </h3>
+                                </h2>
                             </header>
                             {companies && companies.length && (
                                 <div className="stats-content">

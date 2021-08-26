@@ -62,6 +62,10 @@
     margin-right: size(xs);
 }
 
+.content--contact .avatar-text {
+    color: var(--theme-default-bg);
+}
+
 .content--contact .contact-biography {
     padding: size(sm);
 }
@@ -73,6 +77,11 @@
 .content--contact .contact-social {
     padding-left: size(sm);
     padding-right: size(sm);
+}
+
+.content--contact .contact-social li {
+    display: inline-block;
+    padding: size(xxs) size(xs);
 }
 
 .content--contact .contact-footer {
@@ -97,12 +106,13 @@
 }
 
 .content--contact .notice p {
-     font-size: 14px;
+     font-size: 0.875rem;
 }
 
 .contact-actions .icon {
-    width: 12px;
-    height: 12px;
+    width: 18px;
+    height: 18px;
+    transform: scale(0.85);
 }
 
 @include breakpoint('min', 560px) {

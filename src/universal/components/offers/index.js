@@ -12,7 +12,7 @@ export default function Offers({products}) {
     return (
         <Fragment>
             <header className="header--panel header--offer">
-                <h3 className="title--panel">Offers</h3>
+                <h1 className="title--panel">Offers</h1>
             </header>
             <div className="content--offer">
                 <ProductList items={products} handleOrder={handleToggle} />

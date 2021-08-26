@@ -18,7 +18,7 @@ export default function Companies({data}) {
     return (
         <div className="content--company">
             <header className="header--panel header--company">
-                <h3 className="title--panel">Companies</h3>
+                <h1 className="title--panel">Companies</h1>
                 <div className="company-add">
                     <Button
                         size="xs"

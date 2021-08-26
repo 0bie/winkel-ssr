@@ -31,7 +31,7 @@ export default function ContactCard({
                         />
                     </div>
                     <div className="contact-headline">
-                        <h3 className="contact-name">
+                        <h2 className="contact-name">
                             {user.firstName} {user.lastName}
                             {user.email && (
                                 <small className="contact-email">
@@ -47,7 +47,7 @@ export default function ContactCard({
                                     </a>
                                 </small>
                             )}
-                        </h3>
+                        </h2>
                         <div className="contact-joined">
                             {`added ${parseDate({ date: user.createdAt })} ago`}
                         </div>
@@ -81,18 +81,19 @@ export default function ContactCard({
                 {user.social && user.social.length > 0 && (
                     <ul className="contact-social">
                         {user.social.map((social) => (
-                            <a
-                                href={social.link}
-                                key={`${social.platform}`}
-                                className="btn btn--xs btn--link"
-                            >
-                                <Icon
-                                    size="md"
-                                    id={social.platform}
-                                    classNames={['vert--mid']}
-                                    title={`follow on ${social.platform}`}
-                                />
-                            </a>
+                            <li className="btn btn--xs btn--link" key={social.link}>
+                                <a
+                                    href={social.link}
+                                    key={`${social.platform}`}
+                                >
+                                    <Icon
+                                        size="md"
+                                        id={social.platform}
+                                        classNames={['vert--mid']}
+                                        title={`follow on ${social.platform}`}
+                                    />
+                                </a>
+                            </li>
                         ))}
                     </ul>
                 )}

@@ -8,20 +8,20 @@ export default function PlaceholderItem() {
             </div>
             <div className="cardlist-content">
                 <header className="cardlist-header">
-                    <h4 className="cardlist-title placeholder-text" />
+                    <h2 className="cardlist-title placeholder-text" />
                     <div className="cardlist-meta placeholder-text" />
                 </header>
                 <div className="cardlist-footer">
                     <ul className="meta-list">
                         <li className="meta-item">
-                            <h4 className="meta-price placeholder-text" />
+                            <h2 className="meta-price placeholder-text" />
                             <div className="meta-source placeholder-text" />
                         </li>
                         <li className="meta-item">
-                            <h4 className="meta-date">
+                            <h2 className="meta-date">
                                 <span className="meta-duration placeholder-text" />
                                 <span className="meta-notice placeholder-text" />
-                            </h4>
+                            </h2>
                         </li>
                     </ul>
                 </div>

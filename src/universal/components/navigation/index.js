@@ -28,6 +28,7 @@ export default function Navigation() {
                         tabIndex="0"
                         onClick={handleNavToggle}
                         classNames={['btn--menu']}
+                        aria-label="menu icon"
                     >
                         <div className="icon icon--menu vert--mid">
                             <span className="bar" />

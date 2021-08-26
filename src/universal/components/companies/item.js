@@ -7,27 +7,28 @@ export default function CompanyItem({company, handleOffer, handleDelete}) {
         <li className="company-item">
             <div className="company-media">
                 {company && company.image ? (
-                    <img src={company.image.src} alt={company.image.alt} />
+                    <img src={company.image.src} alt={company.image.alt} loading="lazy" />
                 ) : (
                     <img
                         src="https://winkel-ssr.obie.dev/assets/logo/winkel.svg"
                         alt="default company image"
+                        loading="lazy"
                     />
                 )}
             </div>
             <div className="company-content">
                 <div className="company-meta">
-                    <h3 className="company-title">{company.name}</h3>
+                    <h2 className="company-title">{company.name}</h2>
                     <span className="company-location">{company.location}</span>
                 </div>
                 <div className="company-meta">
-                    <h3 className="company-status">
+                    <h2 className="company-status">
                         {company && company.products.length > 0 ? (
                             <span>active</span>
                         ) : (
                             <span className="text--danger">inactive</span>
                         )}
-                    </h3>
+                    </h2>
                     <span className="company-supply">{company.quantity}</span>
                 </div>
                 <div className="company-actions">
