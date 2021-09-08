@@ -31,10 +31,13 @@ app.use(express.static(path.join(process.cwd(), 'public')))
 app.use(favicon(path.join(process.cwd(), 'public', 'favicon.ico')))
 
 app.use((_, response, next) => {
-    response.setHeader(
-        'Content-Security-Policy',
-        CSP_DIRECTIVES
-    )
+    response.set({
+        'X-Frame-Options': 'SAMEORIGIN',
+        'X-XSS-Protection': '1; mode=block',
+        'X-Content-Type-Options': 'nosniff',
+        'Content-Security-Policy': CSP_DIRECTIVES,
+        'Strict-Transport-Security': 'max-age=31536000; preload'
+    })
     next()
 })
 
